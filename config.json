@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerronnect",
+        "uuid": 2025380,
+        "checksum": "uz0umb"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
